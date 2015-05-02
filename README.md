@@ -3,4 +3,4 @@
 
 这个相当于GitHub的HelloWorld！
 
-I love :coffee !
+I love :coffee: !
